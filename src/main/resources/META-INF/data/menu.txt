@@ -1,0 +1,5 @@
+Witaj w programie Moje dokumenty:
+1. Pokaz wszystkie dokumenty,
+2. Pokaz wszystkie typy dokumentow,
+3. Szukaj wg typu,
+4. Zamknij.
